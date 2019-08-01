@@ -14,3 +14,6 @@ Connecting the schema to any project is the way to connect the normal image
 
 </html>
 ```
+https://apalion1493.github.io/stooler-scheme/dist/stooller-diagram__how-it-works.svg
+https://apalion1493.github.io/stooler-scheme/src/stooller-diagram__how-it-works.svg
+https://apalion1493.github.io/stooler-scheme/index.html
